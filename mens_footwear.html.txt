@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Men's Footwear - Kripa Surplus Leather Footwear</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Men's Footwear</h1>
+    <p>Foot size options available</p>
+    <nav><a href="index.html" class="back-link">&larr; Back to Categories</a></nav>
+  </header>
+
+  <main class="products-page">
+    <ul class="product-list">
+      <li>Foot size 05</li>
+      <li>Foot size 06</li>
+      <li>Foot size 07</li>
+      <li>Foot size 08</li>
+      <li>Foot size 09</li>
+      <li>Foot size 10</li>
+      <li>Foot size 11</li>
+      <li>Foot size 12</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Kripa Surplus Leather Footwear</p>
+  </footer>
+</body>
+</html>

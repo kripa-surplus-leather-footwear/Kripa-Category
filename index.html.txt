@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kripa Surplus Leather Footwear</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Kripa Surplus Leather Footwear</h1>
+    <p>Explore our exclusive leather collection</p>
+  </header>
+  
+  <main class="category-page">
+    <h2>Categories</h2>
+    <div class="category-list">
+      <a href="mens_footwear.html" class="category-card">Men's Footwear</a>
+      <a href="womens_footwear.html" class="category-card">Women's Footwear</a>
+      <a href="kids_footwear.html" class="category-card">Kids Footwear</a>
+      <a href="bags_purses.html" class="category-card">Sling Bags & Purses</a>
+      <a href="laptop_shoulder_bags.html" class="category-card">Laptop & Shoulder Bags</a>
+      <a href="belts_wallets.html" class="category-card">Belts and Wallets</a>
+    </div>
+  </main>
+  
+  <footer>
+    <p>&copy; 2025 Kripa Surplus Leather Footwear | Contact: info@kripaleather.in</p>
+  </footer>
+</body>
+</html>
